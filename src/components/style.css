@@ -1,0 +1,15 @@
+.pagebutton {
+    display: inline-block;
+    padding: 8px 12px;
+    margin: 5px;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .pagebutton:hover {
+    background-color: #e0e0e0;
+  }
+
+

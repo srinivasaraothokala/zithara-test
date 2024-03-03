@@ -1,0 +1,36 @@
+step 1
+//backend folder
+
+npm install
+
+step 2 
+// frontend folder
+
+
+npm install
+
+step 3
+
+// initailisation
+
+npm init
+
+step 4
+
+// for dependencies
+
+npm i primereact
+
+step 5
+
+// for running backend + front end
+
+npm run both
+
+// for backend only 
+
+nodemon ./index.js
+
+// for front end only
+
+npm start 
